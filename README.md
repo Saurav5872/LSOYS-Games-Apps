@@ -25,5 +25,5 @@ Your reaction time will be recorded and shown on the leaderboard.
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/reaction-speed.git
+   (https://github.com/Saurav5872/LSOYS-Games-Apps.git)
    cd reaction-speed
